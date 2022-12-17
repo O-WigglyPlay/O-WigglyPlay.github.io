@@ -4,18 +4,17 @@ url: "https://o-wigglyplay.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
-  # Meta
   title: 프로그래밍과 친해지기
-  avatar: assets/img/avatar.png
-  favicon: assets/favicon.ico
+  avatar: #타이틀 옆 아바타 아이콘
+  favicon:
   gravatar: # Email MD5 hash
   description: "공부내용을 기록 및 작업 내용을 기록하는 블로그입니다." # used by search engines
 
   # Header and footer text
   header_text: >
-     <h1>프로그래밍과 친해지기</h1>
+     <h2>프로그래밍과 친해지기</h2>
 
-     <h2>어렵고 어색한 프로그래밍과 함께 친해지는 프로젝트</h2>
+     <p>어렵고 어색한 프로그래밍과 함께 친해지는 프로젝트</p>
   header_text_feature_image:
   footer_text: >
    CopyRight &copy <a href="https://github.com/O-WigglyPlay">O-Wigglyplay</a>
@@ -29,7 +28,7 @@ theme_settings:
   facebook:
   flickr:
   gitlab:
-  github: "O-WigglyPlay/O-WigglyPlay.github.io"
+  github: "https://github.com/O-WigglyPlay"
   gitter:
   google_plus:
   instagram:
