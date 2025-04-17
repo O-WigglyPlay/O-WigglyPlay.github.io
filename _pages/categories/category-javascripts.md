@@ -3,7 +3,7 @@ title: "JavaScripts"
 layout: category
 permalink: /categories/javascripts/
 author_profile: true
-taxonomy: JavaScripts
+taxonomy: Categories2
 sidebar:
   nav: "categories"
 ---
