@@ -54,7 +54,7 @@ categories:
 
   - title: "Algorithm"
     children:
-      - title: "Categories5"
-        url: /categories/categories5/
+      - title: "C/C++"
+        url: /categories/c-cpp/
       - title: "Categories6"
         url: /categories/categories6/

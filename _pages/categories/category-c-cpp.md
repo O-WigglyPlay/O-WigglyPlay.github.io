@@ -1,9 +1,9 @@
 ---
-title: "React"
+title: "C/C++"
 layout: category
-permalink: /categories/react/
+permalink: /categories/c-cpp/
 author_profile: true
-taxonomy: React
+taxonomy: C/C++
 sidebar:
   nav: "categories"
 ---
