@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://O-WigglyPlay.github.io/sitemap.xml
+Sitemap: https://o-wigglyplay.github.io/sitemap.xml
