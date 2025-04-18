@@ -1,21 +1,17 @@
 ---
-title: "[포스팅 예시] 이곳에 제목을 입력하세요"
-excerpt: "본문의 주요 내용을 여기에 입력하세요"
+title: "[TEST C++] set, multiset 클래스 정리"
+excerpt: "set? / set 생성자와 초기화/ set의 함수들 그리고 multiset? / multiset 생성자와 초기화/ multiset의 함수들"
 
 categories:
-  - Categories2
+  - C/C++
 tags:
-  - [tag1, tag2]
+  - [C++, STL]
 
-permalink: /categories2/post-name-here-2/
+permalink: /cpp-stl/basics-of-set-multiset-class/
 
 toc: true
 toc_sticky: true
 
-date: 2022-07-24
-last_modified_at: 2022-07-24
+date: 2020-06-24
+last_modified_at: 2021-10-09
 ---
-
-## 🦥 본문
-
-본문은 여기에 ...
