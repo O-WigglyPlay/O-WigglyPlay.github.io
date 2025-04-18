@@ -38,8 +38,8 @@ main:
 categories:
   - title: "FE"
     children:
-      - title: "Categories1"
-        url: /categories/categories1/
+      - title: "React"
+        url: /categories/react/
       - title: "Categories2"
         url: /categories/categories2/
       - title: "Categories3"
