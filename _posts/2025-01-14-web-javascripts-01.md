@@ -3,7 +3,7 @@ title: "[JavaScripts] 기초 문법"
 excerpt: "기초 및 변수"
 
 categories:
-  - javascripts
+  - JavaScript
 tags:
   - [React, Web, JavaScript, 프론트엔드]
 
