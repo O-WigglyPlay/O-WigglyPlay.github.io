@@ -23,7 +23,7 @@ categories:
       - title: "React"
         url: /categories/react/
       - title: "JavaScript"
-        url: /categories/javascripts/
+        url: /categories/javascript/
 
   - title: "BE"
     children:

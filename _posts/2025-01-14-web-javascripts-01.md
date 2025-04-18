@@ -1,5 +1,5 @@
 ---
-title: "[JavaScripts] 기초 문법"
+title: "[JavaScript] 기초 문법"
 excerpt: "기초 및 변수"
 
 categories:
@@ -7,7 +7,7 @@ categories:
 tags:
   - [React, Web, JavaScript, 프론트엔드]
 
-permalink: /web/javascripts01/
+permalink: /web/javascript01/
 
 toc: true
 toc_sticky: true
