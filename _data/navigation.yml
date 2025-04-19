@@ -34,8 +34,8 @@ categories:
     children:
       - title: "Git"
         url: /categories/git/
-      - title: "Math"
-        url: /categories/math/
+      - title: "ComputerGraphics"
+        url: /categories/computergraphics/
 
   - title: "Algorithm"
     children:
