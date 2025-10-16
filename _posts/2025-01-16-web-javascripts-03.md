@@ -1,13 +1,13 @@
 ---
-title: "[JavaScript] 기초 문법"
-excerpt: "조건문과 선택문"
+title: '[JavaScript] 기초 문법'
+excerpt: '조건문과 선택문'
 
 categories:
-  - JavaScript
+    - JavaScript
 tags:
-  - [React, Web, JavaScript, 프론트엔드]
+    - [React, Web, JavaScript, 프론트엔드]
 
-permalink: /web/javascript02/
+permalink: /web/javascript03/
 
 toc: true
 toc_sticky: true
@@ -31,13 +31,13 @@ last_modified_at: 2025-01-16
 ```javascript
 //기본형
 if (조건식) {
-  //조건식이 참이면 코드 실행
+    //조건식이 참이면 코드 실행
 }
 //실적용법
 var num = 10;
 if (num < 500) {
-  //num이 500보다 작으면 조건문 내 코드를 실행한다.
-  document.write("hello");
+    //num이 500보다 작으면 조건문 내 코드를 실행한다.
+    document.write('hello');
 }
 ```
 
@@ -94,18 +94,18 @@ if문과 비슷한 용도로 사용되는나 if문은 여러 값을 비교하기
 ```javascript
 var 변수 = 초기값;
 switch (변수) {
-  case 값1:
-    코드1;
-    break;
-  case 값2:
-    코드2;
-    break;
-  case 값3:
-    코드3;
-    break;
+    case 값1:
+        코드1;
+        break;
+    case 값2:
+        코드2;
+        break;
+    case 값3:
+        코드3;
+        break;
 
-  default:
-    코드4;
+    default:
+        코드4;
 }
 ```
 

@@ -1,45 +1,47 @@
 # main links
 main:
-  - title: "Home"
-    url: https://O-WigglyPlay.github.io/
+    - title: 'Home'
+      url: https://O-WigglyPlay.github.io/
 
-  # - title: "About"
-  #   url: /about/
+    # - title: "About"
+    #   url: /about/
 
-  - title: "GitHub"
-    url: https://github.com/O-WigglyPlay/
+    - title: 'GitHub'
+      url: https://github.com/O-WigglyPlay/
 
-  # - title: "Projects"
-  #   url: /projects/
+    # - title: "Projects"
+    #   url: /projects/
 
-  # - title: "Categories"
-  #   url: /categories/
+    # - title: "Categories"
+    #   url: /categories/
 
 # sidebar navigation (categories)
 # 2022.09.24 sidebar ver2.0 : main-sub version
 categories:
-  - title: "FE"
-    children:
-      - title: "React"
-        url: /categories/react/
-      - title: "JavaScript"
-        url: /categories/javascript/
+    - title: 'FE'
+      children:
+          - title: 'React'
+            url: /categories/react/
+          - title: 'JavaScript'
+            url: /categories/javascript/
 
-  - title: "BE"
-    children:
-      - title: "Java"
-        url: /categories/java/
+    - title: 'BE'
+      children:
+          - title: 'Java'
+            url: /categories/java/
+          - title: 'MySQL'
+            url: /categories/mysql/
 
-  - title: "basic"
-    children:
-      - title: "Git"
-        url: /categories/git/
-      - title: "ComputerGraphics"
-        url: /categories/computergraphics/
+    - title: 'basic'
+      children:
+          - title: 'Git'
+            url: /categories/git/
+          - title: 'ComputerGraphics'
+            url: /categories/computergraphics/
 
-  - title: "Algorithm"
-    children:
-      - title: "C/C++"
-        url: /categories/c-cpp/
-      - title: "Python"
-        url: /categories/python/
+    - title: 'Algorithm'
+      children:
+          - title: 'C/C++'
+            url: /categories/c-cpp/
+          - title: 'Python'
+            url: /categories/python/
