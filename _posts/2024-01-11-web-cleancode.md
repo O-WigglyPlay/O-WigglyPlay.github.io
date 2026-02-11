@@ -3,7 +3,7 @@ title: '깨끗한 코드 좋은 코드'
 excerpt: '클린코딩 하는 방법'
 
 categories:
-    - etc
+    - ETC
 tags:
     - [니콜라스, 클린코딩, 코더, 깔끔한 코드]
 
