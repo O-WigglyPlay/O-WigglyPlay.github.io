@@ -1,11 +1,11 @@
 ---
-title: "깨끗한 코드 좋은 코드"
-excerpt: "클린코딩 하는 방법"
+title: '깨끗한 코드 좋은 코드'
+excerpt: '클린코딩 하는 방법'
 
-# categories:
-#   -
+categories:
+    - etc
 tags:
-  - [니콜라스, 클린코딩, 코더, 깔끔한 코드]
+    - [니콜라스, 클린코딩, 코더, 깔끔한 코드]
 
 permalink: /web/cleancode/
 
@@ -45,10 +45,10 @@ function ReadPriceData(price,cardId, userId, productId) 이런 식으로 인자�
 ```js
 //configuration object example
 ReadPriceData({
-  price: 35,
-  produceId: 5,
-  cardId: 3,
-  userId: 38298,
+    price: 35,
+    produceId: 5,
+    cardId: 3,
+    userId: 38298,
 });
 ```
 
