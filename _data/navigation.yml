@@ -45,3 +45,8 @@ categories:
             url: /categories/c-cpp/
           - title: 'Python'
             url: /categories/python/
+
+    - title: 'ETC'
+      children:
+          - title: 'ETC'
+            url: /categories/etc/
