@@ -3,8 +3,8 @@ main:
     - title: 'Home'
       url: https://O-WigglyPlay.github.io/
 
-    # - title: "About"
-    #   url: /about/
+    - title: 'About'
+      url: /about/
 
     - title: 'GitHub'
       url: https://github.com/O-WigglyPlay/
@@ -16,35 +16,19 @@ main:
     #   url: /categories/
 
 # sidebar navigation (categories)
-# 2022.09.24 sidebar ver2.0 : main-sub version
+# 2026-05-15 ver1.0
 categories:
-    - title: 'FE'
-      children:
-          - title: 'React'
-            url: /categories/react/
-          - title: 'JavaScript'
-            url: /categories/javascript/
-
-    - title: 'BE'
-      children:
-          - title: 'Java'
-            url: /categories/java/
-          - title: 'MySQL'
-            url: /categories/mysql/
-
-    - title: 'basic'
-      children:
-          - title: 'Git'
-            url: /categories/git/
-          - title: 'ComputerGraphics'
-            url: /categories/computergraphics/
-
     - title: 'Algorithm'
       children:
           - title: 'C/C++'
             url: /categories/c-cpp/
           - title: 'Python'
             url: /categories/python/
+
+    - title: '정보보안'
+      children:
+          - title: '정보보안'
+            url: /categories/security/
 
     - title: 'ETC'
       children:
